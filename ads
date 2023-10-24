@@ -1,12 +1,16 @@
 {
-    "ads": {
-        "bn_applovine": "1b936c00479a5342",
-        "inter_applovine": "7c712d3a74f029e9",
-        "Ntvn_applovine": "582030ac4a6d06fe",
-        "Ntvs_applovine": "eb08766618b630cb",
-        "rwrd_applovine": "",
-        "urlget": "https://www.google.com/",
-        "urlrateus": "https://play.google.com/store/apps/details?id=com.Chdevlop78.aniwatchanimetvhelper",
-        "Privicyurl": "https://chahbounnet.blogspot.com/p/privacy-policy.html"
-    }
+
+	"ads": {
+		"bnr_ironSource": "DefaultBanner",
+		"Inter_ironSource": "DefaultInterstitial",
+		"reword_ironSource": "DefaultRewarded",
+
+		"app_key_ironSource": "1bd4b79a5",
+
+		"applink_url": "https://www.google.com/",
+		"rateus_url": "https://play.google.com/store/apps/details?id=com.Chdevlop78.aniwatchanimetvhelper",
+		"Privacy_url": "https://chahbounnet.blogspot.com/p/privacy-policy.html"
+
+	}
+
 }
